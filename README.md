@@ -16,9 +16,9 @@
 
 Here are some of the key applications I've built and deployed:
 
-* **[DevSpace Platform](https://devspace-sepia.vercel.app/)** - A modern, high-performance developer workspace and public portfolio builder featuring project hubs, task management, and a sleek dark UI. | *[GitHub Repo](https://github.com/VICKTRIO/devspace)*
-* **[EduManger](https://amazonn-pa3a.onrender.com)** - A comprehensive student administration application designed to streamline educational tracking and organization with backend integration and Docker support. | *[GitHub Repo](https://github.com/VICKTRIO/EduMange)*
-* **[Personal Portfolio](https://github.com/VICKTRIO/portfolio)** - A responsive, custom-built portfolio website showcasing web solutions, developer services, and dark/light mode integration.
+* **[DevSpace Platform](https://devspace-sepia.vercel.app/)** - A modern, high-performance developer workspace and public portfolio builder featuring project hubs, task management, and a sleek dark UI. | *[GitHub Repo](https://github.com/VICKTRIO/devspace.git)*
+* **[EduManger](https://amazonn-pa3a.onrender.com)** - A comprehensive student administration application designed to streamline educational tracking and organization with backend integration and Docker support. | *[GitHub Repo](https://github.com/VICKTRIO/EduMange.git)*
+* **[Personal Portfolio](https://github.com/VICKTRIO/portfolio.git)** - A responsive, custom-built portfolio website showcasing web solutions, developer services, and dark/light mode integration.
 
 ---
 
